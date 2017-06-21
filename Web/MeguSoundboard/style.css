@@ -1,0 +1,17 @@
+
+html {
+	background-color: black;
+}	
+
+h1 {
+	color: white;
+}
+
+.card{
+	width: 230px;
+	height: 318px;
+	border: 0px;
+}
+.card:hover{
+	cursor: pointer;
+}
